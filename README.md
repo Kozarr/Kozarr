@@ -6,10 +6,9 @@ Software developer focused on building scalable, full-stack web applications and
 
 ### 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kozarr&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nazar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kozarr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+![Nazar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kozarr&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kozarr&layout=compact&theme=radical&hide_border=true)
 
 ---
 
