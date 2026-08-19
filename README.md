@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nazar 👋
 
-<!--
-**Kozarr/Kozarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on building scalable, full-stack web applications and robust business tools within the .NET ecosystem.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+* **Languages:** C#, JavaScript, SQL, HTML5, CSS3/SCSS
+* **Frameworks & Libraries:** ASP.NET MVC, Blazor, .NET Core
+* **Databases:** Microsoft SQL Server, Relational Schema Design
+* **Tools & Practices:** Git, GitHub, Visual Studio, MVC Architecture, RESTful APIs
+
+---
+
+### 🔭 Featured Work
+
+* **[Cherry's Construction Portal](https://github.com/Kozarr/cherrys_construction_mvc)** – Full-stack MVC web application built with C#, ASP.NET MVC, SQL Server, and Razor views. Demonstrates strict separation of concerns, relational database integration, and responsive design.
+
+---
+
+### 📬 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/nazar-korotyuk](https://www.linkedin.com/in/nazar-korotyuk)
+* **GitHub:** [github.com/Kozarr](https://github.com/Kozarr)
